@@ -1,0 +1,4 @@
+.DS_Store
+.sconsign.dblite
+*.pyc
+pbots_calc/
